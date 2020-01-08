@@ -2,3 +2,4 @@ Dockerfile
 /venv
 /.idea
 *.pyc
+*.DS_Store
